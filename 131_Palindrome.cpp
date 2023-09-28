@@ -42,5 +42,4 @@ int main(){
             cout << "\"" << res[i][j] << "\"";
         }
     }
-    cout << "HELLO";
 }
